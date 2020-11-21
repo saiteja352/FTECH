@@ -12,7 +12,7 @@ class Headers extends React.Component{
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
     <Nav className="mr-auto">
-      <Link id="l1" to='/'>Home</Link>
+      <Link id="l1" to='/home'>Home</Link>
       <Link id="l3" to='/aboutus'>About Us</Link>
       <Link id="l2" to="/contactus">Contact Us</Link>
     </Nav>

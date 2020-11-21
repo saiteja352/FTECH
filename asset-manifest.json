@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/FTECH/static/css/main.1c6d998f.chunk.css",
+    "main.js": "/FTECH/static/js/main.48b5a0c4.chunk.js",
+    "main.js.map": "/FTECH/static/js/main.48b5a0c4.chunk.js.map",
+    "runtime-main.js": "/FTECH/static/js/runtime-main.0d23b48e.js",
+    "runtime-main.js.map": "/FTECH/static/js/runtime-main.0d23b48e.js.map",
+    "static/js/2.ffec7a93.chunk.js": "/FTECH/static/js/2.ffec7a93.chunk.js",
+    "static/js/2.ffec7a93.chunk.js.map": "/FTECH/static/js/2.ffec7a93.chunk.js.map",
+    "static/js/3.b7c3d72e.chunk.js": "/FTECH/static/js/3.b7c3d72e.chunk.js",
+    "static/js/3.b7c3d72e.chunk.js.map": "/FTECH/static/js/3.b7c3d72e.chunk.js.map",
+    "index.html": "/FTECH/index.html",
+    "static/css/main.1c6d998f.chunk.css.map": "/FTECH/static/css/main.1c6d998f.chunk.css.map",
+    "static/js/2.ffec7a93.chunk.js.LICENSE.txt": "/FTECH/static/js/2.ffec7a93.chunk.js.LICENSE.txt",
+    "static/media/bro1.a6a72e5c.jpg": "/FTECH/static/media/bro1.a6a72e5c.jpg",
+    "static/media/bro2.129a2af6.jpg": "/FTECH/static/media/bro2.129a2af6.jpg",
+    "static/media/ccare2.531682d9.jpg": "/FTECH/static/media/ccare2.531682d9.jpg",
+    "static/media/digi1.b4fa5fbd.jpeg": "/FTECH/static/media/digi1.b4fa5fbd.jpeg",
+    "static/media/digi2.032b6053.jpeg": "/FTECH/static/media/digi2.032b6053.jpeg",
+    "static/media/digi3.24d0ff3d.jpeg": "/FTECH/static/media/digi3.24d0ff3d.jpeg",
+    "static/media/f1.2f3fb8e6.jpg": "/FTECH/static/media/f1.2f3fb8e6.jpg",
+    "static/media/hero1.1c96ec5e.jpg": "/FTECH/static/media/hero1.1c96ec5e.jpg",
+    "static/media/san1.0c2701c6.jpeg": "/FTECH/static/media/san1.0c2701c6.jpeg",
+    "static/media/suri.81142740.jpg": "/FTECH/static/media/suri.81142740.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d23b48e.js",
+    "static/js/2.ffec7a93.chunk.js",
+    "static/css/main.1c6d998f.chunk.css",
+    "static/js/main.48b5a0c4.chunk.js"
+  ]
+}

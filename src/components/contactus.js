@@ -32,7 +32,7 @@ class Contactus extends React.Component{
                 <Card.Body>
                 <Card.Text>
                 <i className="fas fa-comments deo"></i><br/>
-                <h3>LIVE CHART</h3>
+                <h3>LIVE CHAT</h3>
                   <h5>Just send us your questions or concerns by starting a new case and we will give you the help you need.</h5>
                 </Card.Text>
                 <Button onClick={this.clickHandler} variant="primary">START CHAT</Button>
